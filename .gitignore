@@ -1,0 +1,10 @@
+# env files — covers client/.env and server/.env
+.env
+
+# dependencies
+node_modules/
+
+# build output
+client/dist/
+client/build/
+server/dist/
