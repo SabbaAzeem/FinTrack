@@ -1,4 +1,22 @@
-# Product Vision
+# Architecture roadmap
+
+We will follow this order:
+
+- Product vision and scope 
+- Domain glossary 
+- Real transaction scenarios 
+- Business rules and edge cases
+- Refined user stories and acceptance criteria
+- Domain model — entities and relationships
+- Database design
+- Application use cases and service boundaries
+- API design
+- Authentication and authorization rules
+- Reports and calculation rules
+- Technical architecture and folder structure
+- MVP implementation plan
+
+# Product Vision & Scope
 
 ## Why am I building this?
 
@@ -11,7 +29,7 @@ The long term goal is to evolve it into complete personal finance application wi
 
 ## Target user
 
-- __Version 1:__ Myself
+- **Version 1:** Myself
 - **Future:** Anyone who wants to manage their personal finances.
 
 ## Problem statement
